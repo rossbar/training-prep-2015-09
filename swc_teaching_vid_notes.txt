@@ -1,0 +1,20 @@
+Cons: 
+ - open-endedness of some questions - questions should be narrower scope to have
+   precise answers. For example: "what do you put in np.array() to make an
+   array? -> a lot of different answers.
+ - Could give more explanation as to why things are the way they are rather than
+   just pointing out how they are. For example: when explaining the inclusive/
+   exclusive slice boundaries, have them do odds_arr[1:len(odds_arr)]
+
+Pros:
+ - Does a good job of understanding questions being asked and using that as an
+   opportunity to introduce the relevant info about the python objects. For
+   example: questions about array dimensionality led her to introducing 
+   array.shape
+ - Seemed to encourage questions and be conscious of logistical issues like 
+   screen space etc
+
+General thoughts:
+ - Potential advantage of having example-based demos rather than just a
+   straight introduction to features. This is more in line with how one might
+   actually use interactive python. Give example...
